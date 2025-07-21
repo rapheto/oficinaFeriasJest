@@ -1,7 +1,7 @@
 {
-  "name": "aula2_testes",
+  "name": "aula-3",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "Exercicio_aula_3.js",
   "scripts": {
     "test": "jest --coverage"
   },
